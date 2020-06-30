@@ -20,7 +20,7 @@
 
 </p>
 
-# Front-end
+# 🚀 Front-end
 
 Exercício prático do Launchbase, onde foi dado a introdução em HTML, CSS e Javascript.
 
@@ -34,4 +34,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para
 
 ---
 
-Feito por [Cleber Santos](https://github.com/cleber-santos) aluno da turma do Launchbase - [Rocketseat](https://rocketseat.com.br).
+Feito por [Cleber Santos](https://github.com/cleber-santos) aluno da turma do Launchbase :rocket:- [Rocketseat](https://rocketseat.com.br).
