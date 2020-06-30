@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700&display=swap");
+
+:root {
+    --color-green: #50fa7b
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+    background: #282a36;
+    font-family: 'Nunito Sans', sans-serif;
+    color:white;       
+}
+header {
+    padding: 32px;
+    border-bottom: 1px solid #333;
+    background: rgba(0,0,0,0.1);
+}
+.links {
+    text-align: center;
+}
+
+.links a {
+    color: white;
+    font-size: 18px;
+    line-height: 28px;
+    margin: 0 16px;
+    text-decoration: none;
+}
+
+.links a:hover {
+    color: var(--color-green);
+    transition: color 0.6s;
+}
+
+#wrapper{
+    text-align: center;
+    padding: 32px;
+}
+
+#wrapper img {
+    border-radius: 50%;
+    border: 4px solid var(--color-green);
+    margin-bottom: 32px;
+    height: 300px;
+}
+
+#wrapper h1 {
+    font-size: 44px;
+    line-height: 52px;
+    font-weight: bold;
+}
+
+#wrapper h2 {
+    font-size: 24px;
+    line-height: 34px;
+    font-weight: normal;
+    margin-top: 8px;
+    opacity: 0.7;
+}
+
+#wrapper p {
+    max-width: 500px;
+    margin: 32px auto;
+    font-size: 20px;
+}
+
+#wrapper p a {
+    color: var(--color-green);
+}
+
+#links-footer a {
+    border-bottom: 1px solid var(--color-green) ;
+}
+
+/* CARDS */
+
+.cards{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.card{
+    background-color: #7159c1;
+}
+
+.card_image-container img {
+    width: 100%;
+}
+
