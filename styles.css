@@ -91,6 +91,12 @@ header {
 
 .card{
     background-color: var(--color-rocket);
+    cursor: pointer;
+}
+
+.card:hover {
+    border: 2px solid var(--color-green);
+    transition: 0.4s;
 }
 
 .card_image-container img {
