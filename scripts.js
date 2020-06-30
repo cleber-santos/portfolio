@@ -5,10 +5,13 @@ const cards = document.querySelectorAll('.card')// vai pegar todos elementos com
 
 for (let card of cards) {
     card.addEventListener("click", function(){
+        const videoId = card.getAttribute("id")
         modalOverlay.classList.add('active')
+        modalOverlay.querySelector("iframe").src = `https://www.youtube.com/embed/${videoId}`
     })
 }
 
 document.querySelector('.close-modal').addEventListener("click", function () {
     modalOverlay.classList.remove("active")
+    modalOverlay.querySelector("iframe").src = ""
 })
