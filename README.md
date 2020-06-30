@@ -30,7 +30,7 @@ Foi criado um portfólio em HTML do instrutor [Mayk Brito](https://github.com/ma
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/cleber-santos/portfolio/blob/master/LICENSE) para mais detalhes.
 
 ---
 
