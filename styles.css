@@ -102,6 +102,7 @@ header {
     padding: 24px;
 }
 
+
 .card_info {
     display: grid;
     /* depois do display grid, indicar o numero de colunas do grid */
